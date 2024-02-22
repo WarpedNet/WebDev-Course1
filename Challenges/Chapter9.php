@@ -18,7 +18,8 @@
 	}
 
 	$var = cat();
-	echo $var; echo ' the dog'; // echo '!';
+	echo $var; 
+	echo ' the dog'; // echo '!';
 ?>
 
 <?php
